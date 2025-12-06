@@ -1,4 +1,5 @@
 This project provides a comprehensive analysis of coffee shop sales, including key performance insights, product trends and a revenue forecast based on historical transaction data.
+
 All analyses are contained in the Excel file Coffee_Sales_Analysis_and_Forecast.xlsx.
 
 Data Source:
